@@ -21,7 +21,7 @@ function clickFunction(){
 	}
 	
 	if (clicks >= 110){
-		document.getElementById("bs").innerHTML = "Seriously, this is all I got!";
+		document.getElementById("bs").innerHTML = "Seriously, this is all I got!!!";
 	}
 }
 
